@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Junning Wu's Homepage
+title: Haawking X's Homepage
 subtitle:
-description: Things about The Junning Wu
-author: Junning Wu
+description: Things about The Haawking X Lab
+author: Haawking X Lab
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -216,8 +216,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/JunningWu
-    School: http://www.ia.cas.cn
+    GitHub: https://github.com/JunningWu/haawkingx
     Company: http://www.haawking.com
 
 
