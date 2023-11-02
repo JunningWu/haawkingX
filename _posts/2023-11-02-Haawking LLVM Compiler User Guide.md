@@ -1,5 +1,3 @@
-# 2023-11-02-Haawking LLVM Compiler User Guide
-
 ---
 layout: post
 title: Haawking LLVM Compiler User Guide
